@@ -1,2 +1,4 @@
-# NetLogo-AModelingTool
-Examples from the Book NetLogo A Modeling Tool
+# NetLogo: A Modeling Tool / Una herramienta de modelado
+
+Examples from the Book / Ejemplos del libro
+
