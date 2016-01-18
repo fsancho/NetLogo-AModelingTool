@@ -4,9 +4,7 @@ Examples from the Book / Ejemplos del libro
 
 ![](NetLogo Portada th.png)
 
-You can find more infomation about the book [here](https://payhip.com/b/VhKb).
-
-Puedes encontrar más información sobre el libro [aquí](https://payhip.com/b/VhKb).
+You can find more infomation about the book [here](https://payhip.com/b/VhKb) / Puedes encontrar más información sobre el libro [aquí](https://payhip.com/b/VhKb).
 
 In this repository you can find some of the complete examples from the book. Please contact the authors (fsanchocaparrini@gmail.com) if you have any comments or suggestions.
 
